@@ -1121,7 +1121,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "-\uC601\uD654\uAD00-"
+  m_text: "-\uC870\uC870 \uC601\uD654-"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bacbeded6e8e07d4c911f416734d6afb, type: 2}
   m_sharedMaterial: {fileID: 1301877828980238757, guid: bacbeded6e8e07d4c911f416734d6afb, type: 2}
@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB124\uC774\uBC84\uC774\uBA54\uC77C/\uD3EC\uD3F4 \uB9C1\uD06C\n3D \uC560\uB2C8\uBA54\uC774\uD130"
+  m_text: "tina1202-@naver.com\n3D \uC560\uB2C8\uBA54\uC774\uD130& 2D \uC77C\uB7EC\uC2A4\uD2B8"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bacbeded6e8e07d4c911f416734d6afb, type: 2}
   m_sharedMaterial: {fileID: 1301877828980238757, guid: bacbeded6e8e07d4c911f416734d6afb, type: 2}
